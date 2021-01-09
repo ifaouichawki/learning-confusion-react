@@ -40,6 +40,7 @@ class Main extends Component {
 
   }
 
+  
 
   componentDidMount() {
     this.props.fetchDishes();
@@ -47,6 +48,8 @@ class Main extends Component {
     this.props.fetchPromos();
 
   }
+
+
 
  
  
